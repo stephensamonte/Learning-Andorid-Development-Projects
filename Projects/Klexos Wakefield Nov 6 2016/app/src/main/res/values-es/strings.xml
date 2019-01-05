@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Main Strings-->
+
+    <!--Navigation Drawer Strings description for accessibility-->
+    <string name="navigation_drawer_open">Abrir panel de navegación</string>
+    <string name="navigation_drawer_close">Cierre el cajón de navegación</string>
+
+    <!--Twitter List Strings-->
+
+    <!--Navigation Drawer Strings-->
+    <string name="school_name">Escuela Secundaria Wakefield</string>
+    <string name="action_main_activity">Casa</string>
+    <string name="action_my_news">Mis Noticias</string>
+    <string name="action_share_application">Compartir aplicación</string>
+
+    <!--Navigation Category About Strings-->
+    <string name="nav_category_about">Acerca de</string>
+    <string name="nav_help_and_feedback">Ayuda y Comentarios</string>
+    <string name="nav_settings">Configuración</string>
+
+    <!--Share Application Strings-->
+    <string name="app_share_introduction">Revisar la</string>
+    <string name="app_share_subject">Noticias de aplicación:</string>
+
+    <!--3dots dropdown Menu Strings-->
+    <string name="action_refresh">Refrescar</string>
+    <string name="action_information">Información</string>
+    <string name="action_usernames">Nombres</string>
+
+    <!--Toast Strings telling the user if they are connected to the internet-->
+    <string name="connected_wifi">Conectado en Wifi.</string>
+    <string name="connected_mobile">Conectado en el móvil.</string>
+    <string name="connected_not">Sin servicio de Internet.</string>
+
+    <!--Toast Information String fragments when you click on the drop down menu-->
+    <string name="information_toast_beginning">Personalizar</string>
+    <string name="information_toast_ending">pestaña en la configuración.</string>
+
+    <!-- The message displayed when swipe to refresh fails-->
+    <string name="swipe_refresh_failure">
+        No se puede actualizar mensajes en este momento.
+    </string>
+    <string name="no_tweets">No hay tweets a Show</string>
+    <string name="loading_failure">No se puede cargar mensajes en este momento.</string>
+
+    <!-- Strings related to Settings -->
+    <string name="title_activity_settings">Configuración</string>
+
+    <!-- Personal settings -->
+    <string name="pref_header_my_news">Mis Noticias</string>
+    <string name="pref_header_personalize">Personalizar</string>
+    <!-- These are used in personal settings and are for the personalFeedPActivity -->
+    <string name="pref_title_username_1">Nombre de Twitter 1</string>
+    <string name="pref_title_username_2">Nombre de Twitter 2</string>
+    <string name="pref_title_username_3">Nombre de Twitter 3</string>
+    <string name="pref_title_username_4">Nombre de Twitter 4</string>
+    <string name="pref_description_username">Type the username of the timeline you wish to
+        follow</string>
+
+    <!--Strings for Categories-->
+    <string name="category_general">Principal</string>
+    <string name="category_sports">Deportes</string>
+    <string name="category_clubs">Clubs</string>
+    <string name="category_teachers">Maestros</string>
+    <string name="category_staff">Personal</string>
+    <string name="title_activity_My_News">Mis Noticias</string>
+    <string name="title_activity_help">Ayuda</string>
+
+    <!--Title Strings for the Help Activity-->
+    <string name="help_title_home"><u>Casa</u></string>
+    <string name="help_title_my_news"><u>Mis Noticias</u></string>
+    <string name="help_title_usernames"><u>Nombres</u></string>
+    <string name="help_title_note"><u>Nota</u></string>
+
+    <!--Description Strings for the Help Activity-->
+    <string name="help_text">
+        Para sugerencias de ayuda o de aplicación adicionales, pulse el icono de mensajes
+        para enviar un correo electrónico a wakefieldnhs@gmail.com.
+    </string>
+    <string name="home_text">
+    La página de inicio muestra una recopilación de noticias de Wakefield a partir de fuentes
+        de Twitter organizadas a través de categoríases.
+    </string>
+    <string name="my_news_text">
+        La página de \“Mis Noticias\” permite a los usuarios elegir noticias específica de
+        Wakefield que desean a seguir.
+        \n\nPara personalizar \“Mis Noticias\”, ir a la \“Configuración\” -> \“Mis Noticias\” a
+        continuación \"introduzca un nombre de usuario de Twitter en uno de los artículos
+        etiquetados \“Nombre de Twitter\”.
+
+        \n\n¿No funciona? Intente presionar \"Refrescar\".
+    </string>
+    <string name="usernames_text">
+        Haga clic aquí para obtener una lista de nombres de usuario Secundaria Wakefield.
+        \n\nUn nombre de usuario de Twitter se puede encontrar mediante la apertura de una línea de
+        tiempo de Twitter específica a continuación, mirando las últimas palabras de la URL del
+        sitio web Twitter.
+        \n\nEjemplo: \"Wakefield Athletics\"
+        \nSitio Web (URL): https://twitter.com/WakeAthletics
+        \nNombre de Usuario: WakeAthletics
+        \n\nAsegúrese de escribir el nombre de usuario correcto o de lo contrarío la aplicación no
+        recuperará noticias.
+    </string>
+    <string name="note_text">
+        Esta aplicación es producido de un estudiante de Wakefield y es disponible a usted porque
+        yo creo que esta herramienta mejorará la experiencia de ser un Wakefield Warrior. Esta
+        aplicación se realizó con la intención de facilitar la difusión del curso de Wakefield
+        para miembros de la comunidad.
+    </string>
+
+    <!--App Help Email Strings-->
+
+    <!-- Background settings strings-->
+    <string name="pref_title_background_color">Color de Fondo</string>
+    <string-array name="background_color_strings">
+        <item>Blanco</item>
+        <item>Negro</item>
+        <item>Gris</item>
+        <item>Verde</item>
+        <item>Don\'t Go Picture</item>
+    </string-array>
+
+    <!-- User settings strings-->
+    <string-array name="user_strings">
+        <item>Estudiante</item>
+        <item>Padre</item>
+    </string-array>
+
+    <!-- AppRater -->
+    <string name="AppRater_showDialog_question">Disfrutando de Aplicación Wakefield?</string>
+    <string name="AppRater_showDialog_yes">¡Sí!</string>
+    <string name="AppRater_showDialog_no">Realmente no</string>
+
+    <string name="AppRater_rate_question">¿Qué tal una calificación en la App Store, entonces?</string>
+    <string name="AppRater_hate_question">¿Le importaría darnos alguna información?</string>
+    <string name="AppRater_rate_hate_yes">Ok, seguro</string>
+    <string name="AppRater_rate_hate_no">No, gracias</string>
+</resources>

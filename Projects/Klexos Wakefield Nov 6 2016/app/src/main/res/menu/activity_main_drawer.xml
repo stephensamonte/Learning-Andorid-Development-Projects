@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main_activity"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/action_main_activity" />
+        <item
+            android:id="@+id/nav_my_news"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="@string/action_my_news" />
+        <item
+            android:id="@+id/nav_synergy_login_website"
+            android:checkable="false"
+            android:icon="@drawable/ic_https_black_24dp"
+            android:title="@string/action_synergy_login_website" />
+        <item
+            android:id="@+id/nav_school_website"
+            android:checkable="false"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="@string/school_name" />
+        <item
+            android:id="@+id/nav_share_application"
+            android:checkable="false"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="@string/action_share_application" />
+    </group>
+
+    <item android:title="@string/nav_category_about">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_help_black_24dp"
+                android:title="@string/nav_help_and_feedback" />
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/nav_settings" />
+        </menu>
+    </item>
+</menu>

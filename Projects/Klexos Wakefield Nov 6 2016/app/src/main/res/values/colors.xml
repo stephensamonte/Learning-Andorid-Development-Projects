@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43A047</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#64DD17</color>
+
+    <!--This is the swipe refresh color, background option, and divider color option-->
+    <!--Color white is found in twitter plugin-->
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#9E9E9E</color>
+    <color name="colorGreen">#4CAF50</color>
+</resources>

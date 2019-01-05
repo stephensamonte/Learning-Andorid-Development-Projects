@@ -1,0 +1,61 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/pref_header_my_news">
+
+        <EditTextPreference
+            android:contentDescription="@string/pref_description_username"
+            android:defaultValue="@string/pref_username_default1"
+            android:inputType="text"
+            android:key="@string/pref_username_key_1"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_username_1" />
+
+        <EditTextPreference
+            android:defaultValue="@string/pref_username_default2"
+            android:inputType="text"
+            android:key="@string/pref_username_key_2"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_username_2" />
+
+        <EditTextPreference
+            android:defaultValue="@string/pref_username_default3"
+            android:inputType="text"
+            android:key="@string/pref_username_key_3"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_username_3" />
+
+        <EditTextPreference
+            android:defaultValue="@string/pref_username_default4"
+            android:inputType="text"
+            android:key="@string/pref_username_key_4"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_username_4" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_header_personalize">
+
+        <ListPreference
+            android:defaultValue="@string/pref_user_default"
+            android:entries="@array/user_strings"
+            android:entryValues="@array/user_values"
+            android:key="@string/pref_user_key"
+            android:title="@string/pref_title_user" />
+
+        <ListPreference
+            android:defaultValue="@string/pref_background_default"
+            android:entries="@array/background_color_strings"
+            android:entryValues="@array/background_color_values"
+            android:key="@string/pref_background_key"
+            android:title="@string/pref_title_background_color" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
