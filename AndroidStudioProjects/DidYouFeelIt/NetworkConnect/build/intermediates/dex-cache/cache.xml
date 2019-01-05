@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_d2e2ed959eab27c1d0490c23ef5e3af1b685a2b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f35ff7739264bd73cf551a91b94abdb447768193">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e92473967fb3bd456e5b751d4f11643ece5ca21f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.3.0_ea893fd18352ed4a75870314c95b2659222a362a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_9b96ead9a837156c39163010135ab2ee01773c9e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\steph\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_62cdf175c6e4104623087bb2a4dcb39cffd60c21\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5a506fcb8f4a0af1154532dd3469c9d86b3dab98">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_873afa006685bf529d25e909aa9ac4177e594190\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\DidYouFeelIt\NetworkConnect\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_3e8e6da4d7cdd486e7cef338581225e2391b9f75\classes.dex" />
+    </item>
+
+</items>
