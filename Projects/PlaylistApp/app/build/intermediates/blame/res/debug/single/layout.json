@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homescreen.xml",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\src\\main\\res\\layout\\homescreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\movie_listview_item.xml",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\src\\main\\res\\layout\\movie_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_activity_layout.xml",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\src\\main\\res\\layout\\search_activity_layout.xml"
+    }
+]

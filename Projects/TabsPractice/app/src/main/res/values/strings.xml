@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tabs Practice</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab3_textview">Tab3</string>
+    <string name="title_section1">Section1</string>
+    <string name="title_section2">Section2</string>
+    <string name="title_section3">Section3</string>
+</resources>

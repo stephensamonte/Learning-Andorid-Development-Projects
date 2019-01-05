@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\steph\AndroidStudioProjects\PlaylistApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6def3d9fb8f9a52d96889dc79b3df9c1a8eb107a">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\PlaylistApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8ae86dee7667d8125c458b48261f8848cb7c1f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\steph\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\PlaylistApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_37291e82e15e45aaccfe96ccc9776ef140a52ed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\steph\AndroidStudioProjects\PlaylistApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c81fde9b11cf8cdec7200d1e80fbf3b3cb8c165">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\PlaylistApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a81988e7a660d73e64e30497525c4b6564a6be6e\classes.dex" />
+    </item>
+
+</items>

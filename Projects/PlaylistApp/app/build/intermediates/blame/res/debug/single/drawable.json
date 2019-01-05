@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_loading.png",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\src\\main\\res\\drawable\\ic_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_box_layer.xml",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\src\\main\\res\\drawable\\search_box_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn_selector.xml",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\PlaylistApp\\app\\src\\main\\res\\drawable\\search_btn_selector.xml"
+    }
+]

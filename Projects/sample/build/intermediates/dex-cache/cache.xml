@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\steph\AndroidStudioProjects\sample\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_44db3ce645532be845ef4655b7a2cbd7a1d9e118\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\steph\AndroidStudioProjects\sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82b2432ab5e143f1f20ebbea6fceb603f31c3fb7">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1399e90d5d8313755d84e875fb53ca0b194b67f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\steph\AndroidStudioProjects\sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1572a2a9221f56ae3f0ee333c851ee4b34754be5">
+        <dex dex="C:\Users\steph\AndroidStudioProjects\sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0c9a08d60c708148e0b6f3b63aa45a671cb39966\classes.dex" />
+    </item>
+
+</items>

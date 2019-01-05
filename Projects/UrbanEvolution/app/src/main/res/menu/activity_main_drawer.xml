@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_weekend_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_urbanfit"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="Urban Fit Guide" />
+
+    <item android:title="Training">
+        <menu android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_parkour"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="Parkour" />
+            <item
+                android:id="@+id/nav_freerunning"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="Freerunning" />
+            <item
+                android:id="@+id/nav_hiphop_dance"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="Hip Hop Dancing" />
+            <item
+                android:id="@+id/nav_break_dance"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="Breakdancing" />
+        </menu>
+    </item>
+
+    <item android:title="About">
+        <menu>
+            <item
+                android:id="@+id/nav_partner_information"
+                android:icon="@drawable/ic_group_black_24dp"
+                android:title="Partners" />
+            <item
+                android:id="@+id/nav_website"
+                android:icon="@drawable/ic_web_black_24dp"
+                android:title="Website" />
+            <item
+                android:id="@+id/nav_share_application"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_help_black_24dp"
+                android:title="Help / Feedback" />
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Tools" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_thumbnail.png",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\sample\\app\\src\\main\\res\\drawable-mdpi\\loading_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\AndroidStudioProjects\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\no_thumbnail.png",
+        "source": "C:\\Users\\steph\\AndroidStudioProjects\\sample\\app\\src\\main\\res\\drawable-mdpi\\no_thumbnail.png"
+    }
+]
