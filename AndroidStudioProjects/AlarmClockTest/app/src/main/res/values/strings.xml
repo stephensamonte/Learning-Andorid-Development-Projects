@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlarmClockTest</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="music_array">
+        <item>Pick a sound!</item>
+        <item>Acting Up</item>
+        <item>Break You In</item>
+        <item>I\' Fly</item>
+    </string-array>
+</resources>
